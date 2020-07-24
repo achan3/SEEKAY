@@ -1,0 +1,152 @@
+*{box-sizing: border-box;}
+
+.topnav {
+    overflow: hidden;
+    top: 50px;
+    left: 1200px;
+    position:absolute;
+}
+.topnav input[type=text] {
+    border: 1px solid #ccc;  
+}
+.title{
+    font-size: 200%;
+    font-weight: 200;
+    font-family: azo-sans-web,sans-serif;
+    top: 15px;
+    left:100px;
+    position:absolute;
+    color:#092532;
+}
+.home{
+    font-size: 175%;
+    font-weight: 200;
+    font-family: azo-sans-web,sans-serif;
+    top: 23px;
+    left: 550px;
+    position:absolute;
+    color:#092532;
+}
+.about-us{
+    font-size: 175%;
+    font-weight: 200;
+    font-family: azo-sans-web,sans-serif;
+    top: 23px;
+    left: 655px;
+    position:absolute;
+    color:#092532;
+}
+.our-team{
+    font-size: 175%;
+    font-weight: 200;
+    font-family: azo-sans-web,sans-serif;
+    top: 23px;
+    left: 800px;
+    position:absolute;
+    color:#092532;
+}
+.donate{
+    font-size: 175%;
+    font-weight: 200;
+    font-family: azo-sans-web,sans-serif;
+    top: 23px;
+    left: 950px;
+    position:absolute;
+    color:#092532;
+}
+.background-pic{
+    left:650px;
+    top:200px;
+    position: absolute;
+}
+.together{
+    font-size:200%;
+    font-weight:200;
+    font-family: azo-sans-web,sans-serif;
+    left:150px;
+    top:200px;
+    position: absolute;
+}
+.safe{
+    font-size:200%;
+    font-weight:200;
+    font-family: azo-sans-web,sans-serif;
+    left:150px;
+    top:250px;
+    position: absolute;
+}
+.quarantine{
+    font-size:200%;
+    font-weight:200;
+    font-family: azo-sans-web,sans-serif;
+    left:150px;
+    top:300px;
+    position: absolute;
+}
+.part{
+    font-size:200%;
+    font-weight:200;
+    font-family: azo-sans-web,sans-serif;
+    left:150px;
+    top:350px;
+    position: absolute;
+}
+.relief{
+    font-size: 200%;
+    font-weight: 200;
+    font-family: azo-sans-web,sans-serif;
+    top: 700px;
+    left:625px;
+    position:absolute;
+    color:#092532;
+}
+.statement{
+    font-size: 150%;
+    font-weight: 200;
+    font-family: azo-sans-web,sans-serif;
+    top: 550px;
+    text-align: center;
+    position:absolute;
+    color:#092532;
+    padding:200
+}
+.help{
+    font-size: 200%;
+    font-weight: 200;
+    font-family: azo-sans-web,sans-serif;
+    top: 1100px;
+    left:550px;
+    position:absolute;
+    color:#092532;
+}
+.grid-container{
+    display: grid;
+    grid-gap: 30px 30px;
+    grid-template-columns: auto auto auto;
+    grid-area:center;
+    position: relative;
+    top:900px;
+    right:120px;
+    padding:200px;
+}
+h1{
+    text-align:center;
+}
+.packages{
+    text-align:center;
+    font-size: 150%;
+    font-weight:200;
+    font-family:azo-sans-web,sans-serif;
+}
+.delivery{
+    text-align:center;
+    font-size: 150%;
+    font-weight:200;
+    font-family:azo-sans-web,sans-serif;
+}
+.others{
+    text-align:center;
+    font-size: 150%;
+    font-weight:200;
+    font-family:azo-sans-web,sans-serif;
+}
